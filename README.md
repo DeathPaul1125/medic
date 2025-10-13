@@ -37,3 +37,9 @@ Permite a los pacientes agendar citas, a los médicos gestionarlas, y a los admi
 
 ---
 
+## ⚙️ Instalación y configuración
+
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/DeathPaul1125/medic.git
+cd sistema-citas-medicas
